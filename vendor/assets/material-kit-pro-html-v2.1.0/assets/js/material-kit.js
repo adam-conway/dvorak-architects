@@ -198,7 +198,7 @@ $(document).ready(function() {
   BrowserDetect.init();
   materialKit.initFormExtendedDatetimepickers();
 
-  materialKit.initSliders();
+  // materialKit.initSliders();
 
   // Init Material scripts for buttons ripples, inputs animations etc, more info on the next link https://github.com/FezVrasta/bootstrap-material-design#materialjs
   $('body').bootstrapMaterialDesign();
